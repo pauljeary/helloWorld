@@ -1,9 +1,11 @@
-#ifndef DUMMY_H_INCLUDED
-#define DUMMY_H_INCLUDED
+#ifndef DUMPSTER_DUMMY_H_INCLUDED
+#define DUMPSTER_DUMMY_H_INCLUDED
 
-// A dummy class
-class Dummy
+namespace dumpster
 {
-};
-
+	// A dummy class
+	class Dummy
+	{
+	};
+}
 #endif
