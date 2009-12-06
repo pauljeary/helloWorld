@@ -1,9 +1,11 @@
-#infndef DUMMY_H_INCLUDED
-#define DUMMY_H_INCLUDED
+#ifndef DUMPSTER_DUMMY_H_INCLUDED
+#define DUMPSTER_DUMMY_H_INCLUDED
 
-// A class I will never use
-class Dummy
+namespace dumpster
 {
-};
-
+	// A dummy class
+	class Dummy
+	{
+	};
+}
 #endif
