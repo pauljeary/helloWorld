@@ -11,6 +11,7 @@ namespace dumpster
 
 		void amazingFeature1();
 		void amazingFeature2();
+		void amazingFeature3();
 	};
 }
 #endif
