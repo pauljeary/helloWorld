@@ -10,6 +10,7 @@ namespace dumpster
 		Dummy();
 
 		void amazingFeature1();
+		void amazingFeature2();
 	};
 }
 #endif
