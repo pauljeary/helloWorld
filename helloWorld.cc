@@ -6,5 +6,7 @@ int main()
 	
 	std::cout << "nonw with an amazing feature" << std::endl;
 
+	std::cout << "now with a third amazing feature" << std::endl;
+
 	return 0;
 }
