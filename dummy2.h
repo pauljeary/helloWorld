@@ -6,6 +6,8 @@ namespace dumpster
 	// A dummy class
 	class Dummy2
 	{
+		void amazingFeature1();
+
 	private:
 		int DummyCounter;
 	};

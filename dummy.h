@@ -6,6 +6,10 @@ namespace dumpster
 	// A dummy class
 	class Dummy
 	{
+	public:
+		Dummy();
+
+		void amazingFeature1();
 	};
 }
 #endif
